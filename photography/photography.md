@@ -5,12 +5,7 @@ sitemap: false
 permalink: /photography/
 ---
 
-One of the hobbies I enjoy doing on the go is photography.
-Whenever I'm traveling or visiting somewhere new, I grab my camera along for the ride.
-In fact, the photo you see in the table of contents and on the landing page was taken by yours truly.
-
-Landscapes have to be my favorite style of photos to take.
-The planet is naturally gorgeous and provides so many amazing opportunities, all I have to do is frame and shoot!
+I'm not a professional photographer, but I still like to take pictures of the interesting things that happen around me and that I see.
 
 
 <div id="gallery">
@@ -35,8 +30,8 @@ The planet is naturally gorgeous and provides so many amazing opportunities, all
   
 </div>
 
-Hover over a photo (click on mobile) to view the images in color!
+
 {:.figcaption}
 
-If you want to see more photos I've taken, as well as any new ones in the future, check out my Instagram!
+If you are interested in the photos I took, you can find more of my work on my instagram
 I post pictures from my adventures and occasionally of portraits I take for my friends.
