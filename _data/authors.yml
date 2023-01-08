@@ -2,14 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Aiden Zelakiewicz
-  email:             aidenzelak@gmail.com
+  name:              Huihao Zhang
+  email:             zhang.12043@osu.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello!
-    My name is Aiden Zelakiewicz and I am a fourth year undergraduate student at The Ohio State University.
+    Hi,
+    My name is Huihao Zhang, junior undergraduate student at The Ohio State University.
     I am currently a double major in the Department of Physics and the Department of Astronomy & Astrophysics.
 
   # This photo will be used in the about section
@@ -24,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         ShockblackFPS
-    github:          Shockblack
-    email:           aidenzelak@gmail.com
+    twitter:         qqqqq04577845
+    github:          hu1haozhang
+    email:           zhang.12043@osu.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -37,7 +37,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       nedia.film
+    instagram:       lut.zhang
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        zelakiewicz
+    linkedin:        huihao-zhang-a86b4a1b8
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
