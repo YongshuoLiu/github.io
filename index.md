@@ -10,15 +10,15 @@ This site includes some of my daily life content, as well as research.
 
 ![Surp 2021 Cohort](/assets/img/Surp2021.jpg)
 
-The 2021 SURP cohort. See more about my SURP project [here](_projects/extinction.md).
+The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
 {:.figcaption}
 
 Here you can find a few pages which all host various things about me.
 
-* [About Me]{:.heading.flip-title} --- Learn more about me, my work, and hobbies.
-* [Projects]{:.heading.flip-title} --- Where all of my research, classwork, and personal projects are on display.
-* [Photography]{:.heading.flip-title} --- A page to see various photos taken by me from my travels.
-* [Curriculum Vitae]{:.heading.flip-title} --- View and download my CV.
+* [About Me]{:.heading.flip-title} --- Learn more about me, hobbies, Video games.
+* [Projects]{:.heading.flip-title} --- Research, class project
+* [Photography]{:.heading.flip-title} --- You can see the photos I took in the past.
+* [Curriculum Vitae]{:.heading.flip-title} --- My CV.
 {:.related-posts.faded}
 
 [Projects]: projects
