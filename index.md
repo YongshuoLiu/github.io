@@ -5,8 +5,8 @@ sitemap: false
 cover: true
 ---
 
-My name is Aiden Zelakiewicz and welcome to my personal site!
-I wanted a hub for everything I do, be it professional or personal.
+Welcome! I'm Huihao Zhang
+This site includes some of my daily life content, as well as research.
 
 ![Surp 2021 Cohort](/assets/img/Surp2021.jpg)
 
