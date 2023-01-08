@@ -3,8 +3,7 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  From research to classwork to weekend experiments.
-  All of my complete and ongoing projects can be found here with a quick introduction to each.
-  Each project has a description as well as links to the source code for further reading.
+  It includes all of my research projects during undergraduate, both in and out of the class
+  You can see the descriptions of all the projects here, as well as the relevant code
 no_groups: true
 ---
