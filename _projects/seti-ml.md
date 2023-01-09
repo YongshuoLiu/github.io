@@ -1,10 +1,10 @@
 ---
-layout: course project
+layout: project
 title: 'Machine Learning:Spaceship Titanic'
 caption: Research
 description: >
   This project is a machine learning exploration based on the Kaggle project Space Ship Titanic
-date: 1 Dec 2022
+  date: 1 Dec 2022
 image: 
   path: /assets/img/p3ml.png
 accent_color: '#4fb1ba'
@@ -15,6 +15,9 @@ This is the final project of the [Physics 5680](https://ascnet.osu.edu/storage/r
 
 This project is based on the Kaggle project:[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) and uses several methods to explore the role of machine learning in data.
 
+
+![Surp 2021 Cohort](/assets/img/ResearchPoster_5680.png)
+
 Specifically, the machine learning techniques used in this project are:
 
 For Processing Data: *[Correlation Matrix](https://corporatefinanceinstitute.com/resources/excel/correlation-matrix/)*, *[Graph Analysis](https://www.nvidia.com/en-us/glossary/data-science/graph-analytics/#:~:text=Graph%20analytics%2C%20or%20Graph%20algorithms,the%20graph%20as%20a%20whole.)*, *[Label Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)*, *[Min-max normalization](https://www.codecademy.com/article/normalization)*
@@ -23,4 +26,3 @@ For Training Models: *[LinearSVC](https://scikit-learn.org/stable/modules/genera
 
 The main language used in this project is python. the libraries used are [sklearn](https://scikit-learn.org/stable/)(LinearSVC, Decision Tree, Random Forest) and [Keras](https://keras.io/)(FCN, 1D CNN)
 
-If you are interested in this project, you can click [here](https://github.com/Hu1haoZhang/hu1haozhang.github.io/blob/main/assets/img/ResearchPoster_5680.png) to view the project poster.
