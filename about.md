@@ -20,10 +20,10 @@ I started my bachelor's degree in safety engineering at Shandong Jiaotong Univer
 
 ## Hobbies
 
-<img style="float: left; padding-right: 7px;" src="/assets/img/aiden_camera.jpeg" width = "17%" height="auto"/>
+<img style="float: left; padding-right: 7px;" src="/assets/img/about2.PNG" width = "25%" height="auto"/>
 I really enjoy aerobic exercise. Specifically, I enjoy road cycling with long distance running (although my knees no longer support me in this sport). If you are a fan of Team Jumbo-Visma, then we'll definitely be good friends.
 
-<img style="float: right; padding-left: 7px;" src="/assets/img/aiden_mwl.jpeg" width = "25%" height="auto"/>
+<img style="float: right; padding-left: 7px;" src="/assets/img/about3.PNG" width = "25%" height="auto"/>
 
 Other than that, I also play some video games. I've been playing Dark Souls 3 a lot lately as well as Elden Ring, and there's no doubt that I'm a fan of Hidetaka Miyazaki. In the Chinese community, we usually call him "Mean Miyazaki(宫崎老贼)".
 
