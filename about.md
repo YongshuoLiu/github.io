@@ -20,7 +20,7 @@ I started my bachelor's degree in safety engineering at Shandong Jiaotong Univer
 
 ## Hobbies
 
-<img style="float: left; padding-right: 7px;" src="/assets/img/about2.PNG" width = "25%" height="auto"/>
+<img style="float: left; padding-right: 7px;" src="/assets/img/about2.JPG" width = "25%" height="auto"/>
 I really enjoy aerobic exercise. Specifically, I enjoy road cycling with long distance running (although my knees no longer support me in this sport). If you are a fan of Team Jumbo-Visma, then we'll definitely be good friends.
 
 <img style="float: right; padding-left: 7px;" src="/assets/img/about3.PNG" width = "25%" height="auto"/>
