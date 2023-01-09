@@ -11,4 +11,4 @@ accent_color: '#4fb1ba'
 theme_color: '#193747'
 sitemap: false
 ---
-We use the [BT-Settl](http://astro.vaporia.com/start/btsettl.html) model to simulate the flux of TRAPPIST-1, assuming that TRAPPIST-1~e has an Earth-like albedo(Modern), and use the [method](https://iopscience.iop.org/article/10.3847/1538-3881/aa6474) proposed by Dr. [Wang Ji](https://www.jiwang.io/) and Dr. [Mawet Dimitri](https://pma.caltech.edu/people/dimitri-mawet) et al. to simulate the results of ELT direct imaging of TRAPPIST-1~e.
+We use the [BT-Settl](http://astro.vaporia.com/start/btsettl.html) model to simulate the flux of TRAPPIST-1, assuming that TRAPPIST-1 e has an Earth-like albedo(Modern), and use the [method](https://iopscience.iop.org/article/10.3847/1538-3881/aa6474) proposed by Dr. [Ji Wang](https://www.jiwang.io/) and Dr. [Dimitri Mawet](https://pma.caltech.edu/people/dimitri-mawet) et al. to simulate the results of ELT direct imaging of TRAPPIST-1~e.
