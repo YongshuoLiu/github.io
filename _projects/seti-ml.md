@@ -15,17 +15,6 @@ This is the final project of the [Physics 5680](https://ascnet.osu.edu/storage/r
 
 This project is based on the Kaggle project:[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) and uses several methods to explore the role of machine learning in data.
 
-<!-- Scrolling image gallery for Breakthrough Discuss Photos -->
-<body>
-<!-- Container for the image gallery -->
-<div class="container">
-
-  <!-- Full-width images with number text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
-      <img src="/assets/img/ResearchPoster_5680.png" style="width:100%">
-  </div>
-
 Specifically, the machine learning techniques used in this project are:
 
 For Processing Data: *[Correlation Matrix](https://corporatefinanceinstitute.com/resources/excel/correlation-matrix/)*, *[Graph Analysis](https://www.nvidia.com/en-us/glossary/data-science/graph-analytics/#:~:text=Graph%20analytics%2C%20or%20Graph%20algorithms,the%20graph%20as%20a%20whole.)*, *[Label Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)*, *[Min-max normalization](https://www.codecademy.com/article/normalization)*
@@ -33,3 +22,5 @@ For Processing Data: *[Correlation Matrix](https://corporatefinanceinstitute.com
 For Training Models: *[LinearSVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)*, *[Decision Tree](https://scikit-learn.org/stable/modules/tree.html)*, *[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)*, *[FCN](https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1)*, *[1D CNN](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/)*
 
 The main language used in this project is python. the libraries used are [sklearn](https://scikit-learn.org/stable/)(LinearSVC, Decision Tree, Random Forest) and [Keras](https://keras.io/)(FCN, 1D CNN)
+
+If you are interested in this project, you can click [here](https://github.com/Hu1haoZhang/hu1haozhang.github.io/blob/main/assets/img/ResearchPoster_5680.png) to view the project poster.
