@@ -1,26 +1,14 @@
 ---
 layout: project
-title: 'Quasar Luminosity'
-caption: Coursework
+title: 'URAP, ELT Section'
+caption: Research
 description: >
-  Astronomy 3350 final project calculating quasar spectral energy distributions.
-date: 3 July 2022
+  The second phase of the URAP project. Exploring ELT's ability to directly image exoplanets and the ability to directly image exoplanet atmospheres.
+date: 25 Sep, 2022 - Present
 image: 
-  path: https://user-images.githubusercontent.com/84037073/157300482-ddf8a6d5-e681-4991-846b-bca2c3c8066e.jpeg
-links:
-  - title: GitHub Repository
-    url: https://github.com/Shockblack/Quasar-Luminosity
+  path: /assets/img/p2ur.png
 accent_color: '#4fb1ba'
 theme_color: '#193747'
 sitemap: false
 ---
-For my final project in our Astronomy 3350 course, my group and I calculated the rest spectral flux density and spectral energy distributions (SED) of quasars using multiple surveys.
-This project was done alongside [Kevin Hoy], [Rachel Slaybaugh], [Simon Filbert], and Sebastian Nunez-Ceardi.
-Surveys where data has been acquired from are Sloan Digital Sky Survey (SDSS), Two Micron All Sky Survey (2MASS), and Wide-field Infrared Survey Explorer (WISE).
-All of the details outlining the methodology can be found in the Jupyter notebook in the [GitHub Repository].
-The notebook contains markdown for every step of the process alongside well documented code.
-
-[Rachel Slaybaugh]: https://github.com/slaybaugh21
-[Simon Filbert]: https://github.com/simonmf1
-[Kevin Hoy]: https://github.com/kevinmhoy
-[GitHub Repository]: https://github.com/Shockblack/Quasar-Luminosity
+We use the [BT-Settl](http://astro.vaporia.com/start/btsettl.html) model to simulate the flux of TRAPPIST-1, assuming that TRAPPIST-1~e has an Earth-like albedo(Modern), and use the [method](https://iopscience.iop.org/article/10.3847/1538-3881/aa6474) proposed by Dr. [Wang Ji](https://www.jiwang.io/) and Dr. [Mawet Dimitri](https://pma.caltech.edu/people/dimitri-mawet) et al. to simulate the results of ELT direct imaging of TRAPPIST-1~e.
