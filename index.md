@@ -8,7 +8,7 @@ cover: true
 Welcome! I'm Huihao Zhang
 This site includes some of my daily life content, as well as research.
 
-![Surp 2021 Cohort](/assets/img/Surp2021.jpg)
+![Surp 2021 Cohort](/assets/img/first_main_page.PNG)
 
 The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
 {:.figcaption}
