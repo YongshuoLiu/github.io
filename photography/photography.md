@@ -16,17 +16,11 @@ I'm not a professional photographer, but I still like to take pictures of the in
    <img src="../assets/img/IMG_0468.JPG">
    <img src="../assets/img/IMG_0469.JPG">
    <img src="../assets/img/about2.JPG">
-   <img src="../assets/img/photography/bouy.jpg">
-   <img src="../assets/img/photography/boathouse.jpg">
-   <img src="../assets/img/photography/pillar.jpg">
-   <img src="../assets/img/photography/bee.jpg">
-   <img src="../assets/img/photography/seal.jpg">
-   <img src="../assets/img/photography/hillside.jpg">
-   <img src="../assets/img/photography/rocky_cove.jpg">
-   <img src="../assets/img/photography/theater.jpg">
-   <img src="../assets/img/photography/squirrel.jpg">
-   <img src="../assets/img/photography/eyes.jpg">
-   <img src="../assets/img/photography/pillbox.jpg">
+   <img src="../assets/img/IMG_6638.HEIC">
+   <img src="../assets/img/IMG_6642.HEIC">
+   <img src="../assets/img/IMG_6637.HEIC">
+   <img src="../assets/img/IMG_6630.HEIC">
+   <img src="../assets/img/IMG_6620.HEIC">
   
 </div>
 
