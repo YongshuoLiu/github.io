@@ -16,7 +16,7 @@ This is the final project of the [Physics 5680](https://ascnet.osu.edu/storage/r
 
 This project is based on the Kaggle project:[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) and uses several methods to explore the role of machine learning in data.
 
-![Surp 2021 Cohort](/assets/img/ResearchPoster_5680.png)
+<img style="float: middle; padding-left: 7px;" src="/assets/img/ResearchPoster_5680.png" width = "25%" height="auto"/>
 
 Specifically, the machine learning techniques used in this project are:
 
