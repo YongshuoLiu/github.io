@@ -11,12 +11,20 @@ accent_color: '#4fb1ba'
 theme_color: '#193747'
 sitemap: false
 ---
-
 This is the final project of the [Physics 5680](https://ascnet.osu.edu/storage/request_documents/4675/Physics%205680%20New%20Course.pdf) at The Ohio State University, under the supervision of Dr. [Richard Hughes](https://www.asc.ohio-state.edu/hughes.319//hughes.html?_gl=1*n94390*_ga*MTUwNDEyMzQ4NS4xNjYxMjk1MzU5*_ga_09WC99HMPE*MTY3MzIzOTE1NC44MC4xLjE2NzMyNDAyMjMuNjAuMC4w).
 
 This project is based on the Kaggle project:[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) and uses several methods to explore the role of machine learning in data.
 
-<img style="float: middle; padding-left: 7px;" src="/assets/img/ResearchPoster_5680.png" width = "25%" height="auto"/>
+<!-- Scrolling image gallery for Breakthrough Discuss Photos -->
+<body>
+<!-- Container for the image gallery -->
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 5</div>
+      <img src="/assets/img/ResearchPoster_5680.png" style="width:100%">
+  </div>
 
 Specifically, the machine learning techniques used in this project are:
 
