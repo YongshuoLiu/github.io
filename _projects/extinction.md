@@ -16,7 +16,7 @@ sitemap: false
 ---
 Based on [NASA](https://exoplanetarchive.ipac.caltech.edu/overview/trappist-1e) publicly available data, we assume that TRAPPIST-1~e has the atmosphere of Modern Earth and Archean Earth.
 
-We use [PICASO](https://natashabatalha.github.io/picaso/) and [petitRADTRANS](https://petitradtrans.readthedocs.io/en/latest/) for simulating the transmission spectra of TRAPPIST-1~e and use PandExo for simulating JWST observation results of TRAPPIST-1~e
+We use [PICASO](https://natashabatalha.github.io/picaso/) and [petitRADTRANS](https://petitradtrans.readthedocs.io/en/latest/) for simulating the transmission spectra of TRAPPIST-1 e and use PandExo for simulating JWST observation results of TRAPPIST-1~e
 
 Based on the [method](https://iopscience.iop.org/article/10.3847/1538-4357/ac29be) proposed by [Phillips Caprice](https://capricephillips.github.io) and Dr. [Wang Ji](https://www.jiwang.io) to quantify the ability of JWST and ELT to detect a single gas biosignature in the atmosphere of exoplanets, we proposed a method to detect the ability of JWST and ELT to detect a gas pair biosignatures.
 
