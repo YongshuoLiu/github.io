@@ -8,6 +8,8 @@ cover: true
 Welcome! I'm Huihao Zhang
 This site includes some of my daily life content, as well as research.
 
+My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by ELT and Transit photometry by JWST
+
 ![Surp 2021 Cohort](/assets/img/first_main_page.png)
 
 The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
