@@ -10,12 +10,12 @@ I'm not a professional photographer, but I still like to take pictures of the in
 
 <div id="gallery">
   
-   <img src="../assets/img/photography/rocky_cliff.jpg">
-   <img src="../assets/img/photography/bench.jpg">
-   <img src="../assets/img/blood_moon.jpg">
-   <img src="../assets/img/full_moon_sqr.jpg">
-   <img src="../assets/img/photography/rock_pillar.jpg">
-   <img src="../assets/img/photography/golden_gate.jpg">
+   <img src="../assets/img/IMG_0461.JPG">
+   <img src="../assets/img/IMG_0462.JPG">
+   <img src="../assets/img/IMG_0467.JPG">
+   <img src="../assets/img/IMG_0468.JPG">
+   <img src="../assets/img/IMG_0469.JPG">
+   <img src="../assets/img/about2.JPG">
    <img src="../assets/img/photography/bouy.jpg">
    <img src="../assets/img/photography/boathouse.jpg">
    <img src="../assets/img/photography/pillar.jpg">
