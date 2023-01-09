@@ -1,34 +1,25 @@
 ---
 layout: project
-title: 'UKIRT Extinction Map'
+title: 'URAP 1, JWST Section'
 caption: Research
 description: >
-  This is a research project I started working on during the Summer Undergraduate Research Program, and have been working on since.
-  It is a continuation on work done by Dr. Samson Johnson during his 2019 JPL internship.
-date: 1 July 2021
+  This project was selected for the URAP program at The Ohio State University in 2022. This is the first phase of the projecy.
+  date: 20 Sep 2022
 image: 
-  path: /assets/img/projects/AK_PSF_2017_2_final.jpg
+  path: /assets/img/p1ur.png
 links:
-  - title: GitHub Repository
-    url: https://github.com/Shockblack/UKIRT_clean
+  - title: Research Report
+    url: https://github.com/Hu1haoZhang/Presentation-slides/blob/main/Huihao_GLEAM22_1_1.pdf
 accent_color: '#4fb1ba'
 theme_color: '#193747'
 sitemap: false
 ---
-During a 2019 internship at JPL, my research advisor [Samson Johnson] began working on a dust map in the near infrared.
-I picked up his work in the summer of 2021 for OSU's Summer Undergraduate Research Program.
-Since then I have been working on numerous methods to improve the map's accuracy and resolution.
+Based on [NASA](https://exoplanetarchive.ipac.caltech.edu/overview/trappist-1e) publicly available data, we assume that TRAPPIST-1~e has the atmosphere of Modern Earth and Archean Earth.
 
-The [*Nancy Grace Roman Space Telescope*](https://roman.gsfc.nasa.gov/) (*Roman*) will be conducting a near infrared microlensing towards the Galactic Center (GC).
-From 2015 to 2019, the [United Kingdom Infrared Telescope](https://about.ifa.hawaii.edu/ukirt/about-us/) (UKIRT) performed a pathfinder microlensing survey for *Roman*.
-UKIRT’s objective was to measure the microlensing event rate in the NIR due to its lessened extinction compared to the optical.
-We utilize the 2017 data from the UKIRT survey to create extinction and reddening maps towards the GC.
+We use [PICASO](https://natashabatalha.github.io/picaso/) and [petitRADTRANS](https://petitradtrans.readthedocs.io/en/latest/) for simulating the transmission spectra of TRAPPIST-1~e and use PandExo for simulating JWST observation results of TRAPPIST-1~e
 
-For this work we utilized the Red Clump (RC) and a standard candle and crayon.
-A luminosity function was fit for the magnitude and color, using the methods of [Nataf et. al (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...769...88N/abstract).
-Doing so, we were able to create maps with a resolution of 2 arcminutes for both the extinction and reddening.
+Based on the [method](https://iopscience.iop.org/article/10.3847/1538-4357/ac29be) proposed by [Phillips Caprice](https://capricephillips.github.io) and Dr. [Wang Ji](https://www.jiwang.io) to quantify the ability of JWST and ELT to detect a single gas biosignature in the atmosphere of exoplanets, we proposed a method to detect the ability of JWST and ELT to detect a gas pair biosignatures.
 
-The source code for this project can either be found at the link at the top of the project page, or [here](https://github.com/Shockblack/UKIRT_clean).
-I also have a first author paper in the works, with a first draft approaching completion.
+The main language of the project is Python, and the main libraries used in this project are PICASO, PandExo, petitRADTRANS, Astropy, NumPy, Pandas, and Matplotlib.
 
-[Samson Johnson]: https://samsonajohnson.github.io
+This project was selected by [Undergraduate Research Apprenticeship Program(URAP)](https://ugresearch.osu.edu/current-researchers/funding-opportunities/undergraduate-research-apprenticeship-program-urap) of Ohio State University and was awarded a three-month(May - July, 2022) research fellowship for a total of \$6,000(Approx)
