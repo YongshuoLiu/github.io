@@ -93,8 +93,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/blood_moon.jpg
-accent_color:          rgb(255,95,0)
+accent_image:          /assets/img/JWST_bg.png
+accent_color:          rgb(163,23,23)
 #rgb(79,177,186)
 
 favicon: /assets/icons/favicon.ico
