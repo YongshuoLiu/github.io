@@ -16,7 +16,7 @@ redirect_from:
 I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. Before coming to Ohio State University, I never expected to leave china, nor had I ever left china. It was in 2020 that I received my first passport.
 
 ## Education
-I started my bachelor's degree in safety engineering at Shandong Jiaotong University located in [Jinan]() in 2018. In 2020, I transferred to Ohio State University in the United States to pursue a Bachelor's degree in Physics with Astronomy.
+Ohio State University,  B.S. Physics and Astronomy. will graduate in May 2024.
 
 ## Hobbies
 
