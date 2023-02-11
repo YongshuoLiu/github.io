@@ -5,7 +5,7 @@ sitemap: false
 permalink: /cv/
 ---
 
-<embed src="../assets/Awesome_CV_Jan9.pdf" width="100%" height="700px" type="application/pdf">
+<embed src="../assets/CV_Huihao_Feb11.pdf" width="100%" height="700px" type="application/pdf">
 
 If on mobile, lightmode might be necessary to view the document or open it in a new tab.
 {:.figcaption}
