@@ -2,8 +2,9 @@
 layout: project
 title: 'Caltech SURF, Exposure Time Calculator (ETC) for Keck‑HISPEC and TMT‑MODHIS'
 caption: Research
-description: >This project provides an update of the SNR and exposure time calculation tool and its web platform for Keck-HISPEC as well as TMT-MODHIS.
-date: 12 June, 2023 - Present
+description: >
+  This project provides an update of the SNR and exposure time calculation tool and its web platform for Keck-HISPEC as well as TMT-    MODHIS.
+  date: 12 June, 2023 - Present
 image: 
   path: /assets/img/p2ur.png
 accent_color: '#4fb1ba'
