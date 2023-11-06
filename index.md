@@ -8,7 +8,7 @@ cover: true
 Welcome! I'm Huihao Zhang
 This site includes some of my daily life content, as well as research.
 
-My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by ELT and Transit photometry by JWST
+My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by ELT(E-ELT/HARMONI, E-ELT/METIS, TMT/MODHIS) and Keck-HISPEC and Transit photometry by JWST/NIRSpec
 
 ![Surp 2021 Cohort](/assets/img/first_main_page.png)
 
