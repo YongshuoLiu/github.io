@@ -13,6 +13,7 @@ My research focuses on exoplanet observations (more specifically, observations o
 ![Surp 2021 Cohort](/assets/img/first_main_page.png)
 
 The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
+
 The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
 {:.figcaption}
 
