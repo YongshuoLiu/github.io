@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Machine Learning:Spaceship Titanic'
-caption: Research
+caption: Course Project
 description: >
   This project is a machine learning exploration based on the Kaggle project Space Ship Titanic
   date: 1 Dec 2022
