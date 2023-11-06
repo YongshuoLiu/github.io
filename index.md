@@ -8,13 +8,13 @@ cover: true
 Welcome! I'm Huihao Zhang
 This site includes some of my daily life content, as well as research.
 
-My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by ELT(E-ELT/HARMONI, E-ELT/METIS, TMT/MODHIS) and Keck-HISPEC and Transit photometry by JWST/NIRSpec
+My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by Keck-HISPEC and ELT(E-ELT/HARMONI, E-ELT/METIS, TMT/MODHIS) and Transit photometry by JWST/NIRSpec
 
 ![Surp 2021 Cohort](/assets/img/first_main_page.png)
 
-The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
+Top: 2022 OSU URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
 
-The 2022 URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
+Bottom: 2023 Caltech SURF Progrom. See more about my SURF project [here](_projects/quasar_luminosity.md).
 
 {:.figcaption}
 
