@@ -5,16 +5,14 @@ sitemap: false
 cover: true
 ---
 
-Welcome! I'm Huihao Zhang
+Welcome! I'm Yongshuo Liu
 This site includes some of my daily life content, as well as research.
 
-My research focuses on exoplanet observations (more specifically, observations of exoplanet atmospheres), which includes direct imaging by Keck-HISPEC and ELT(E-ELT/HARMONI, E-ELT/METIS, TMT/MODHIS) and Transit photometry by JWST/NIRSpec
+My research specializes in leveraging advanced neural networks for dynamic recognition and predictive modeling. This includes developing solutions for disease detection in plants, predicting ship trajectories, and matching maritime and radar trajectories.
 
 ![Surp 2021 Cohort](/assets/img/first_main_page.png)
 
-Top: 2022 OSU URAP Progrom. See more about my URAP project [here](_projects/extinction.md).
-
-Bottom: 2023 Caltech SURF Progrom. See more about my SURF project [here](_projects/quasar_luminosity.md).
+2019-2022 Shandong Province Agricultural Science and Technology Service Project. See more about my project [here](_projects/extinction.md).
 
 {:.figcaption}
 
