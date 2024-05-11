@@ -12,9 +12,8 @@ redirect_from:
 # About Me
 
 <!--author-->
-
-I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. I completed my undergraduate studies at Qingdao Agricultural University.
-
+Hi, My name is Yongshuo Liu,I graduated from Qingdao Agricultural University with a bachelor's degree.
+I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. 
 ## Education
 Qingdao Agricultural University, B.E. Computer Science and Technology. Graduate in May 2023.
 ## Hobbies
