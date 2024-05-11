@@ -2,15 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Huihao Zhang
-  email:             zhang.12043@osu.edu
+  name:              Yongshuo Liu
+  email:             liuyongshuo@stu.qau.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Hi,
-    My name is Huihao Zhang, junior undergraduate student at The Ohio State University.
-    I am currently a double major in the Department of Physics and the Department of Astronomy & Astrophysics.
+    My name is Yongshuo Liu, I earned a Bachelor's degree in Computer Science and Technology from Qingdao Agricultural University.
 
   # This photo will be used in the about section
   picture:
@@ -24,9 +23,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         qqqqq04577845
-    github:          hu1haozhang
-    email:           zhang.12043@osu.edu
+    github:          https://github.com/YongshuoLiu
+    email:           liuyongshuo@stu.qau.edu.cn
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -55,7 +53,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        huihao-zhang-a86b4a1b8
+    linkedin:        yongshuo-liu-381081308
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
