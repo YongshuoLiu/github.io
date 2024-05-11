@@ -10,8 +10,8 @@ accent_color: '#4fb1ba'
 theme_color: '#193747'
 sitemap: false
 ---
-Codes and pre-trained models are at:[code](https://github.com/YongshuoLiu/Face-recognition)
-This project is based on the Paper:[Mask R-CNN](https://arxiv.org/abs/1703.06870) and uses several methods to explore the role of deep learning in data.
+Codes and pre-trained models are at:[code](https://github.com/YongshuoLiu/Face-recognition)  
+This project is based on the Paper:[Mask R-CNN](https://arxiv.org/abs/1703.06870) and uses several methods to explore the role of deep learning in data.  
 
 ![Surp 2021 Cohort](/assets/img/ResearchPoster_5680.png)
 
