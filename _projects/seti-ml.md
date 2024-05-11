@@ -15,7 +15,7 @@ This project is based on the Paper:[Mask R-CNN](https://arxiv.org/abs/1703.06870
 
 ![Surp 2021 Cohort](/assets/img/ResearchPoster_5680.png)
 
-Specifically, the deep learning technologies used in this project are:
-For labeling data: [LabelMe](https://github.com/labelmeai/labelme)
-Used to train models: Mask R-CNN, [FaceNet](https://github.com/davidsandberg/facenet)
-The main language used in this project is python. The library used is Pytorch
+Specifically, the deep learning technologies used in this project are:  
+For labeling data: [LabelMe](https://github.com/labelmeai/labelme)  
+Used to train models: Mask R-CNN, [FaceNet](https://github.com/davidsandberg/facenet)  
+The main language used in this project is python. The library used is Pytorch  
