@@ -13,11 +13,10 @@ redirect_from:
 
 <!--author-->
 
-I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. Before coming to Ohio State University, I never expected to leave china, nor had I ever left china. It was in 2020 that I received my first passport.
+I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. I completed my undergraduate studies at Qingdao Agricultural University.
 
 ## Education
-Ohio State University,  B.S. Physics and Astronomy. will graduate in May 2024.
-
+Qingdao Agricultural University, B.E. Computer Science and Technology. Graduate in May 2023.
 ## Hobbies
 
 <img style="float: left; padding-right: 7px;" src="/assets/img/about2.JPG" width = "25%" height="auto"/>
