@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Machine Learning:Spaceship Titanic'
-caption: Course Project
+title: 'Design and Implementation of Face Recognition Sign-in System Based on Deep Learning and Flask'
+caption: Bachelor's Degree Thesis
 description: >
   This is my bachelor’s thesis project, which was recognized as an outstanding thesis by Qingdao Agricultural University in 2023.
 image: 
