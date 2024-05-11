@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://hu1haozhang.github.io
+url:                   https://yongshuoliu.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -20,15 +20,15 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Huihao Zhang
+title:                 Yongshuo Liu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Huihao Zhang: Third Year Undergraduate Researcher at Ohio State University
-
+  Yongshuo Liu: Bachelor's degree in computer science and technology from Qingdao Agricultural University
+  
 # A shorter description for the sidebar.
-tagline:             Cycling Enthusiast, Exoplanet Researcher, and Youtuber
+tagline:              Cooking Enthusiast,Navigation Systems Researcher,and Youtuber
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,10 +41,10 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Huihao Zhang
-  email:               zhang.12043@osu.edu
+  name:                Yongshuo Liu
+  email:               liuyongshuo@stu.qau.edu.cn
   # # Used by `jekyll-seo-tag`:
-  twitter:             qqqqq04577845
+
 
 # Add links to the sidebar.
 menu:
