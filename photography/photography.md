@@ -10,17 +10,17 @@ I'm not a professional photographer, but I still like to take pictures of the in
 
 <div id="gallery">
   
-   <img src="../assets/img/IMG_0461.JPG">
-   <img src="../assets/img/IMG_0462.JPG">
-   <img src="../assets/img/IMG_0467.JPG">
-   <img src="../assets/img/IMG_0468.JPG">
-   <img src="../assets/img/IMG_0469.JPG">
-   <img src="../assets/img/about2.JPG">
+   <img src="../assets/img/1.JPG">
+   <img src="../assets/img/2.JPG">
+   <img src="../assets/img/3.JPG">
+   <img src="../assets/img/4.JPG">
+   <img src="../assets/img/5.JPG">
+   <img src="../assets/img/6.JPG">
   
 </div>
 
 
 {:.figcaption}
 
-If you are interested in the photos I took, you can find more of my work on my instagram
+If you are interested in the photos I took, you can find more of my work on my facebook
 I post pictures from my adventures and occasionally of portraits I take for my friends.
